@@ -2,10 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=F779EA&background=FFFFFF00&multiline=true&width=435&lines=Beginner+Programmer;Aspiring+Software+Engineer)](https://git.io/typing-svg)
 
-<div align="center">
-  
-  <a href="#" target="_blank"><img alt="Rafal's LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a>
-</div>
+
 
 <img src='https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif' align='left' width="200">
 
