@@ -1,5 +1,5 @@
 <div align='center'>
-  <h1 style="color:#C850C0;">🌸 Rafal Aesar (رفل ايسر) 🌸</h1>
+  <h1 style="color:#C850C0;">🌸 Rafal Aesar 🌸</h1>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=DA3D71&multiline=true&width=435&lines=Beginner+Programmer;Aspiring+Software+Engineer)](https://git.io/typing-svg)
