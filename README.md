@@ -23,11 +23,9 @@
 ---
 
 ## 🧠 I'm Learning:
-- 🔘 Arrays and loops in C++
-- 🔘 GitHub fundamentals
-- 🔘 Building consistent habits as a developer
+ Web development basics: HTML, CSS, and soon JavaScript
 
----
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rafalalala&show_icons=true&theme=maroongold" />
