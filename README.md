@@ -1,4 +1,4 @@
-<div align='center'><h1>🌸 Rafal Aesar (رفل آيسر) 🌸</h1></div>
+<div align='center'><h1>🌸 Rafal Aesar (رفل ايسر) 🌸</h1></div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=F779EA&background=FFFFFF00&multiline=true&width=435&lines=Beginner+Programmer;Aspiring+Software+Engineer)](https://git.io/typing-svg)
 
@@ -11,7 +11,7 @@
 
 ### Hi there 👋  
 - 🏫 I'm **Rafal Aesar**, a passionate beginner in programming  
-- 🌱 Currently learning **C/C++**, and building basic projects  
+- 🌱 Currently learning C++**,Html with some Css and building basic projects  
 - ✨ Love solving simple problems and watching myself improve  
 - 🎯 My Goal: Become confident in software development  
 - 💬 Ask me anything, and I'll be happy to share my learning journey  
@@ -19,15 +19,15 @@
 ---
 
 ## 🛠️ Skills (in progress...)
-- **Languages**: C, C++
-- **Tools**: VS Code, Git, GitHub
-- **OS**: Windows, learning Ubuntu soon
+- **Languages**: Html, C++
+- **Tools**: VS Code, GitHub
+- **OS**: Windows, learning in vc code 
 
 ---
 
 ## 🧠 I'm learning:
 - 🔘 Arrays and loops in C++
-- 🔘 Git & GitHub basics
+- 🔘  GitHub basics
 - 🔘 How to build good habits in coding
 
 ---
